@@ -2,7 +2,7 @@
 
 > Empirical analysis of prime number distributions and rolling frequency densities across custom numeric intervals.
 
-## Overview / Value Proposition
+## Overview
 
 Investigating the distribution of prime numbers over large integer ranges often presents performance bottlenecks due to redundant trial divisions and inefficient sequence storage. Manual script writing for number theory experiments frequently leads to memory bloat and slow execution times. **Prime Density Profiler** solves this operational friction by combining optimized trial division algorithms with vectorized NumPy operations. It provides developers and quantitative researchers with a structured, high-throughput utility to evaluate prime frequency shifts and binned statistical densities directly in Python.
 
